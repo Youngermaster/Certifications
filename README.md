@@ -1,3 +1,3 @@
 # Certifications
 
-This repository contains my certification
+This repository contains my certification files.
